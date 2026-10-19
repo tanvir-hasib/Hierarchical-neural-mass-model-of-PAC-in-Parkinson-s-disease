@@ -1,0 +1,2 @@
+# Hierarchical-neural-mass-model-of-PAC-in-Parkinson-s-disease
+This repository features a hierarchical neural-mass model of δ–β–γ PAC in Parkinson’s disease. In a three-column network, weakening δ→β coupling dropped δ–β PAC but left β–γ PAC unchanged. Matching patient data required a ≥40% cut in β→γ coupling. Effects combined additively, showing medication acts via parallel pathways, not a delta cascade.
