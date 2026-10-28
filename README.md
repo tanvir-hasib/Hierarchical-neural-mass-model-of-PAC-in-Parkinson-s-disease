@@ -14,7 +14,6 @@ a delta-driven cascade**.
 > comparable with EEG; directions and dissociations are the outputs. The patient pattern the model is compared
 > against is taken from [Hasib et al., 2026](#citation); an independent reanalysis of that dataset is in progress.
 
-![Main figure: spectra, comodulograms and PAC along the two K_δβ sweeps](figures/figure_pac_model.png)
 
 ---
 
